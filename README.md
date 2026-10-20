@@ -7,3 +7,11 @@ The original model belonged to LubLune Project’s Arduino Robot Dog. As they op
 To ensure the sim-to-real gap is as minimal as possible, I made sure to set proper joint angle constraints. Additionally, the densities of the materials were altered to match a 15% infill with 2 walls setting in a 3D printer slicer. A battery pack with proper density settings was also added to accurately reflect the real-world weight distribution and Center of Mass (CoM) calculations.
 
 If you have any further suggestions or questions, feel free to contact me on my LinkedIn! -- https://www.linkedin.com/in/ayyubxon-shuxratbekov
+
+
+Here is the video of the demo for the repository:
+
+https://github.com/user-attachments/assets/9868c795-052d-404f-a146-bfd8abd69080
+
+
+
