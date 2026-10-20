@@ -9,7 +9,7 @@ To ensure the sim-to-real gap is as minimal as possible, I made sure to set prop
 If you have any further suggestions or questions, feel free to contact me on my LinkedIn! -- https://www.linkedin.com/in/ayyubxon-shuxratbekov
 
 
-Here is the video of the demo for the repository:
+Here is the video demo for the repository:
 
 https://github.com/user-attachments/assets/9868c795-052d-404f-a146-bfd8abd69080
 
